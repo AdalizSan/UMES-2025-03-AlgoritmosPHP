@@ -12,7 +12,7 @@
         echo "NUMEROS PRIMOS<br />";
         
         $numero = 1;
-        while ($numero <= 100) {
+        while ($numero <= 1000) {
             $NumPrimo = true;
             $divisor = 2;
             if ($numero == 1) {
